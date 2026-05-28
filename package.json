@@ -40,7 +40,7 @@
     "inquirer": "^1.2.3",
     "lodash": "^4.17.2",
     "mustache": "^2.3.0",
-    "tmp": "0.0.31"
+    "tmp": "0.2.6"
   },
   "devDependencies": {
     "eslint": "^3.12.2",
